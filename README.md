@@ -1,5 +1,5 @@
 ### Hi! Davi here :)
-I was studying at a Data Analytics college in Montreal and now I'm available to work full time! <br>
+I completed my studies in Data Analytics at a college in Montreal and now I'm available to work full time! <br>
 Passionate about analytical challenges and enthusiastic about learning and applying new technologies.
 - 👨🏻‍💻 **Jr. Data Analyst** seeking first professional work experience in Canada &nbsp;&nbsp;<img width='25' height='15' src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png" />
 - 📚 I'm a **curious** person.⚜️J'adore **la langue française** et aussi **la culture québécoise** &nbsp;&nbsp;<img width='25' height='15' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Quebec_flag.png/1280px-Quebec_flag.png" />
