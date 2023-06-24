@@ -23,7 +23,7 @@ Passionate about analytical challenges and enthusiastic about learning and apply
 
 #### And feel free to check out some of the content I've created
 - <a href="https://github.com/davicanada/SQL_Oscars">
-    SQL Project: Oscars Database
+    SQL: Database Modeling and Development Project of the Oscars Database
   </a>
 
   More projects will be avaliable soon...
