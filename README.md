@@ -20,3 +20,10 @@ Passionate about analytical challenges and enthusiastic about learning and apply
 &nbsp;<a href="https://www.instagram.com/greendayvis/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
+#### And feel free to check out some of the content I've created
+- <a href="https://github.com/davicanada/SQL_Oscars">
+    SQL Project: Oscars Database
+  </a>
+
+  More projects will be avaliable soon...
