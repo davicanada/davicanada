@@ -25,5 +25,6 @@ Passionate about analytical challenges and enthusiastic about machine learning a
 - <a href="https://github.com/davicanada/SQL_Oscars">
     SQL: Database Modeling and Development Project of the Oscars Awards
   </a>
-
-  More projects will be avaliable soon...
+- <a href="https://github.com/davicanada/PythonHousingPrediction1">
+    Python: Price Prediction of Properties in Rio de Janeiro
+  </a>
