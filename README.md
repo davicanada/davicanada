@@ -28,6 +28,8 @@ Passionate about analytical challenges and enthusiastic about machine learning a
 - 📸 I love **exploring** new places and **taking photos** of landscapes and the nature
 - 🖥️ Currently focused on:
 <div style="display: inline"> 
+   <img width='50' height='50' src="https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/microsoft-office-excel.png" />
+  <img width='50' height='50' src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" />
   <img width='90' height='50' src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" />
   <img width='90' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
