@@ -7,7 +7,7 @@
     <td valign="top">
       <h3>Hi! Davi here :)</h3>
       <p>
-        I completed my studies in Data Analytics at a college in Montreal and now I'm working as a Web Catalog Technician at one of Canada's largest companies, 
+        I completed my studies in Data Analytics at a college in Montreal and I got a Canadian experience working as a Web Catalog Technician at one of Canada's largest companies, 
         <a href="https://www.uapinc.com/en-ca">
     UAP Inc.
   </a>
