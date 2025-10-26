@@ -7,14 +7,14 @@
     <td valign="top">
       <h3>Hi! Davi here :)</h3>
       <p>
-        I completed my studies in Data Analytics at a college in Montreal and I got a Canadian experience working as a Web Catalog Technician at one of Canada's largest companies, 
-        <a href="https://www.uapinc.com/en-ca">
-    UAP Inc.
+        I completed my studies in Data Analytics at a college in Montreal and I got a Canadian experience working as a Documentation Technician at one of Canada's largest companies, 
+        <a href="https://www.otodatatankmonitors.com/">
+    Otodata Tank Monitors.
   </a>
       </p>
     </td>
     <td align="center" valign="middle">
-      <img width='180' height='30' src="https://uapnapa-inc.nyc3.digitaloceanspaces.com/production/3420bc8fc45f15d80a579a69b6d3c922.png" alt="Centered Image">
+      <img width='360' height='60' src="https://www.worldliquidgas.org/wp-content/uploads/2022/09/Otodata.jpg" alt="Centered Image">
     </td>
   </tr>
 </table>
