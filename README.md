@@ -46,8 +46,8 @@ Passionate about analytical challenges and enthusiastic about machine learning a
 </a>&nbsp;
 
 #### And feel free to check out some of the content I've created
-- <a href="https://github.com/davicanada/SQL_Oscars">
-    SQL: Database Modeling and Development Project of the Oscars Awards
+- <a href="https://github.com/davicanada/School-Management-SQL-Project">
+    SQL: Database Modeling and Development School Management Project
   </a>
 - <a href="https://github.com/davicanada/PythonHousingPrediction1">
     Python: Price Prediction of Properties in Rio de Janeiro
