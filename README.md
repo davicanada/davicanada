@@ -7,7 +7,7 @@
     <td valign="top">
       <h3>Hi! Davi here :)</h3>
       <p>
-        I completed my studies in Data Analytics at a college in Montreal and I got a Canadian experience working as a Documentation Technician at one of Canada's largest companies, 
+        I completed my studies in Data Analytics at Trebas Institute in Montreal and I got a Canadian experience working as a Documentation Technician at one of Canada's largest companies, 
         <a href="https://www.otodatatankmonitors.com/">
     Otodata Tank Monitors.
   </a>
