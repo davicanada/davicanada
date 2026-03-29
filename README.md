@@ -29,10 +29,16 @@ Passionate about analytical challenges and enthusiastic about machine learning a
 - 🖥️ Currently focused on:
 <div style="display: inline"> 
    <img width='50' height='50' src="https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/microsoft-office-excel.png" />
+  &nbsp;&nbsp;
   <img width='50' height='50' src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" />
   <img width='90' height='50' src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" />
-  <img width='90' height='70' src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://images.ctfassets.net/6yom6slo28h2/fJUJrqHAzWweaJZvNXgWS/446631a4e2f0cc825292c982c12e173a/postgresql.jpg?w=500&h=324&fl=progressive&q=100&fm=jpg)" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img width='50' height='50' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" />&nbsp;&nbsp;
+  <img width='80' height='80' src="https://1000logos.net/wp-content/uploads/2025/01/Databricks-Emblem.png" />&nbsp;
+  <img width='50' height='50' src="https://images.seeklogo.com/logo-png/33/2/airflow-logo-png_seeklogo-339932.png" />&nbsp;&nbsp;
+  <img width='50' height='50' src="https://images.icon-icons.com/2407/PNG/512/aws_icon_146237.png" />&nbsp;&nbsp;
+   
 </div> 
 
 ##
