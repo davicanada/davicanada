@@ -31,7 +31,7 @@ Passionate about analytical challenges and enthusiastic about machine learning a
    <img width='50' height='50' src="https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/microsoft-office-excel.png" />
   <img width='50' height='50' src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png" />
   <img width='90' height='50' src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png" />
-  <img width='90' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+  <img width='90' height='70' src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg](https://images.ctfassets.net/6yom6slo28h2/fJUJrqHAzWweaJZvNXgWS/446631a4e2f0cc825292c982c12e173a/postgresql.jpg?w=500&h=324&fl=progressive&q=100&fm=jpg)" />&nbsp;&nbsp;
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div> 
 
