@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://br.linkedin.com/in/daviao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/greendayvis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.davianalyst.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.davianalyst.com"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
