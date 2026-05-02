@@ -39,7 +39,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| <a href="https://github.com/davicanada/School-Management-SQL-Project">School Management System</a> | Database modeling and development for a multi-institution school management system | PostgreSQL |
-| <a href="https://github.com/davicanada/PythonHousingPrediction1">Housing Price Prediction</a> | Predicting property prices in Rio de Janeiro based on multiple features | Python, Jupyter |
-| <a href="https://github.com/davicanada/SQL_Oscars">SQL Oscars</a> | Database to manage Oscar winners across Best Actor, Director and Picture | SQL |
-| <a href="https://github.com/davicanada/Full-Stack-School-Management-System">Full-Stack School Management</a> | End-to-end app for school management | Next.js, TypeScript, PostgreSQL |
+| <a href="https://github.com/davicanada/job-hunter-agent">Job Hunter Agent</a> | Automated junior-data job-hunting pipeline that fetches remote Canada postings 3x/day, scores them with an LLM fallback chain, tailors resume + cover letter, and delivers via Telegram | Python, LLMs, Telegram API |
+| <a href="https://github.com/davicanada/Focus">Focus</a> | Multi-tenant school management platform built for Brazilian institutions | Next.js, TypeScript |
+| <a href="https://github.com/davicanada/tag-decommission-site">TAG Decommission Site</a> | Task management platform for TAG tracking antenna removal workflows | Next.js, TypeScript |
+| <a href="https://github.com/davicanada/taskor">Taskor</a> | Task management platform for supervisors and supervisees | Next.js, TypeScript |
