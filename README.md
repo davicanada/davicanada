@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Aspiring Data Engineer · Montréal, QC 🇨🇦</h3>
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/daviao"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://br.linkedin.com/in/daviao"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
   <a href="https://www.instagram.com/greendayvis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.davianalyst.com"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
@@ -26,8 +26,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/VBA-5C2D91?style=for-the-badge&logo=visual-basic&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Excel-FFFFFF?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/VBA-5C2D91?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/>
