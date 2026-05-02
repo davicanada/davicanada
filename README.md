@@ -25,7 +25,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/VBA-5C2D91?style=for-the-badge&logo=visualbasic&logoColor=white"/>
@@ -44,12 +43,3 @@
 | <a href="https://github.com/davicanada/PythonHousingPrediction1">Housing Price Prediction</a> | Predicting property prices in Rio de Janeiro based on multiple features | Python, Jupyter |
 | <a href="https://github.com/davicanada/SQL_Oscars">SQL Oscars</a> | Database to manage Oscar winners across Best Actor, Director and Picture | SQL |
 | <a href="https://github.com/davicanada/Full-Stack-School-Management-System">Full-Stack School Management</a> | End-to-end app for school management | Next.js, TypeScript, PostgreSQL |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davicanada&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicanada&layout=compact&theme=tokyonight" height="160"/>
-</p>
